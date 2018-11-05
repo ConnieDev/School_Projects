@@ -1,0 +1,21 @@
+CP
+Conrad
+1000.00
+GOOG
+Google
+1176.00
+NTDOY
+NINTENDO
+46.21
+BBY
+Best Buy
+80.64
+SNE
+Sony
+57.00
+FB
+Facebook
+162.93
+AMZN
+Amazon.com
+1915.01
