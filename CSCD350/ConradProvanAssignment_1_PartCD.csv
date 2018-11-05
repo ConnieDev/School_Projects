@@ -1,0 +1,45 @@
+Conrad Provan,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,Category,,,,,Data,,Role,,,Pattern,,,Concern,,,Difficulty,,,Risk,,,,Related Elements,,
+Element,,Noun,Adjective,Preposition,Verb,Other,Static,Dynamic,Input,Processing,Output,Creational,Structural,Behavioral,Model,View,Controller,Easy,Moderate,Hard,Low,Moderate,High,,1,2,3
+1,acoustic proximity fuze,x,,,,,x,x,,x,,x,x,,,,x,x,,,,x,,,trigger,sound,location
+2,acoustic sensor,x,,,,,x,,x,,,x,x,,,x,,,,x,,,x,,vibrations,reading,anticipating
+3,acquisition process,x,,,,,,x,,x,,,,x,,x,,,x,,,,x,,acquire,concur,target
+4,active radar sensor,x,,,,,x,,x,,,x,x,,,x,,,,x,,,x,,pulse,bouncing off,rebound
+5,active sonar sensor,x,,,,,x,,x,,,x,x,,,x,,,,x,,,x,,not discreet,searching,exploring
+6,actuator,x,,,,,,x,,,x,x,x,,x,,,,x,,,,x,,activate,initiate,start
+7,attenuation,x,,,,,x,x,,,x,,,x,,,x,,,x,,x,,,dispersing,weaker,penetrating
+8,battleship,x,,,,,,x,,,x,x,,,x,,,,,x,,,x,,armored,ocean,sturdy
+9,bomb,x,,,,,,x,,,x,x,x,,x,,,,x,,,,x,,explosive,portable,weapon
+10,bomber aircraft,x,,,,,,x,,,x,x,,,x,,,,,x,,,x,,air strike,air craft carrier,payload
+11,countermeasure,x,,,,,,x,,,x,,,x,,x,,,,x,,,x,,revenge,reacting,prepared
+12,cross-section/reflectivity,x,,,,,x,,x,,,,x,,,x,,x,,,,x,,,material,density,composition
+13,defensive maneuver,x,,,,,,x,,,x,,,x,,x,,,x,,,,x,,protection,evading,quick
+14,depth charge,x,,,,,,x,,,x,x,,,,x,,x,,,,x,,,trigger,sea mines,blockade
+15,depth fuze,x,,,,,,x,,x,,,,x,,,x,x,,,,x,,,trigger,under water,pressure
+16,destroyer,x,,,,,,x,,,x,x,,,x,,,,,x,,,x,,boat,navy,powerful
+17,distance fuze,x,,,,,,x,,x,,,,x,,,x,x,,,,x,,,trigger,danger zone,area effect
+18,engagement process,x,,,,,,x,,x,,,,x,,x,,,x,,,,x,,confronting,conflict,plan
+19,evasive maneuver,x,,,,,,x,,,x,,,x,,x,,,x,,,,x,,dogging,running away,avoiding
+20,fighter aircraft,x,,,,,,x,,,x,x,,,x,,,,x,,,,x,,flight,fast,air to air
+21,lethality process,x,,,,,x,,,x,,,,x,,,x,,,x,,,x,,battle,killing,danger
+22,main battery gun,x,,,,,,x,,,x,x,x,,x,,,,x,,,,x,,attacking,aiming,targeting
+23,missile,x,,,,,,x,,,x,x,,,x,,,,,x,,,x,,destruction,long distance,guided
+24,mobility process,x,,,,,,x,,,x,,,x,,x,,,x,,,x,,,travelling,relocating,transporting
+25,munition,x,,,,,,x,x,,,x,,,x,,,,x,,,,x,,ammo,supplies,equipment
+26,offensive maneuver,x,,,,,,x,,,x,,,x,,x,,,x,,,,x,,attacking,moving,intercepting
+27,passive radar sensor,x,,,,,x,,x,,,x,,,,,x,x,,,,x,,,discreet,undetected,deception
+28,passive sonar sensor,x,,,,,x,,x,,,x,,,,,x,x,,,,x,,,detection,unnoticed,sneaky
+29,power,x,,,,,,x,x,,,x,,,x,,,x,,,,,x,,energy,Strength,force
+30,radar proximity fuze,x,,,,,,x,,x,,,,x,,,x,x,,,,x,,,trigger,waves,radiation
+31,sensor,x,,,,,x,,x,,,x,,,,x,,x,,,x,,,,data collection,data,senses
+32,sensor fusion,x,,,,,x,,,x,,,,x,,,x,,,x,,,x,,combine,redundancy,accuracy
+33,submarine,x,,,,,,x,,,x,x,x,,x,,,,,x,,,x,,submerge,dive,hidden
+34,thermal proximity fuze,x,,,,,,x,,x,,,,x,,,x,x,,,,x,,,trigger,location,temperature
+35,thermal sensor,x,,,,,x,,x,,,,,x,,,x,x,,,x,,,,temperature,heat,seeking
+36,timed fuze,x,,,,,,x,,x,,,,x,,,x,x,,,,x,,,trigger,timer,delayed
+37,torpedo,x,,,,,,x,,,x,,,x,,,x,,x,,,x,,,water,weapon,submerge
+38,triangulation,x,,,,,x,,,x,,,,x,,,x,x,,,,x,,,calculation,triangles,cell towers
+39,trilateration,x,,,,,x,,,x,,,,x,,,x,x,,,,x,,,calculation,geometry,math
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,<code>,A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,,,,
+,<count>,39,0,0,0,0,14,27,10,12,17,19,9,19,11,13,15,15,12,12,2,15,22,,,,
